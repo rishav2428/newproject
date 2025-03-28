@@ -1,3 +1,3 @@
 # newproject
 First try!
-First edit.
+First program completed.
