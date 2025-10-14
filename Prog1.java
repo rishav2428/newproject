@@ -13,6 +13,6 @@ System.out.println("Your name is: " + name);
 System.out.println("Your age is: " + age);
 System.out.println("Your address is: " + address);
 System.out.println("Welcome " + name + " to our program");
-sc.close();
+sc.close();//this is a new project
 }
 }
