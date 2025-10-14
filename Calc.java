@@ -28,6 +28,6 @@ public class Calc {
         else {
             System.out.println("Error: Invalid operator.");
         }
-        scanner.close();
+        scanner.close();//hope it works
 }
 }
